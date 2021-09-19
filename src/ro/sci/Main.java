@@ -10,6 +10,7 @@ public class Main {
 //
 //        int number = scanner.nextInt();
 //
+//          Am adaugat tema 1
 //        if (number % 3 == 0) {
 //            System.out.println("Numarul " + number + " este de forma 3k");
 //        } else if (number % 3 == 1) {
