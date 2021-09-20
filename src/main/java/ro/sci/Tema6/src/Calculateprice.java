@@ -13,6 +13,7 @@ public class Calculateprice {
 
         calculatePrice(basePrice, vat);
     }
+
     public static void calculatePrice(double basePrice, double vat) {
         System.out.println("Your total price is " + (basePrice * ((100 + vat) / 100)));
     }
